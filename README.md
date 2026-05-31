@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/A7medMajed16/LogoMotionPackage/main/assets/logo.png" width="220" alt="Logo Motion Logo" />
+  <img src="https://raw.githubusercontent.com/A7medMajed16/LogoMotion/main/assets/logo.png" width="220" alt="Logo Motion Logo" />
 </p>
 
 # Logo Motion 🚀
