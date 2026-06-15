@@ -1,6 +1,6 @@
 name: logo_motion
 description: A customizable SVG logo loading animation widget for Flutter. Pass any SVG logo and get a beautiful stroke-trace, fill-reveal, and fade-out animation cycle.
-version: 0.0.4
+version: 0.0.5
 homepage: https://github.com/A7medMajed16/LogoMotion
 repository: https://github.com/A7medMajed16/LogoMotion
 topics:
@@ -16,9 +16,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  xml: ^6.5.0
+  xml: ^7.0.1
   svg_path_parser: ^1.1.2
-  http: ^1.3.0
+  http: ^1.6.0
 
 dev_dependencies:
   flutter_test:
